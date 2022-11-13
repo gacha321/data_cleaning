@@ -1,11 +1,11 @@
 ﻿Id,Type,Label,Value,Value2
-1,A,Introduction,This Project will be created By Mr.X,,
-1,A,Capacity,100MB,,
-1,A,Speed,10Km/h,,
-1,A,Weight,10kg,,
-2,A,Introduction,This-Project-will-be-created-By-Mr.A,,
-2,A,Capacity,100MB,,
-2,A,Speed,5km/h,,
+1,A,Introduction,This Project will be created By Mr.X,
+1,A,Capacity,100MB,
+1,A,Speed,10Km/h,
+1,A,Weight,10kg,
+2,A,Introduction,This-Project-will-be-created-By-Mr.A,
+2,A,Capacity,100MB,
+2,A,Speed,5km/h,
 2,A,Weight,1kg,,
 3,B,Introduction,,This Project will be created By Mr.C
 3,B,Capacity,,100MB
